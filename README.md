@@ -1,4 +1,3 @@
-# GoVMineFizmat 
 [приглашение в дс](https://discord.gg/BFmSFwk328')
 `fizmat.exaroton.me`
 1.9 - 1.21.1
